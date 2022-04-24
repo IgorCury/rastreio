@@ -21,4 +21,9 @@ caracteres.
 
 Nesta parte aprendi como passar no PHPmyAdmin para ver o que esta acontecendo de errado.
 
+<h1> O que preciso melhorar </h1>
+ Acredito que poderia ter feito menos banco de dados, achei muitas coisas "poluidas" queria ter colocado mais PHP em uma area e HTML em outra, como foi feito com o CSS e os bancos de dados. 
+ 
+ Estou estudando mais MVC para corrigir estes problemas. 
+
 Se você quiser utilizar qualquer coisa fique a vontade e se quiser arrumar algo tambem fique avontade meu e-mail esta ai para trocar ideia.
